@@ -1,7 +1,9 @@
 # pglp_3.1
 
 1)  Non, cette classe de respecte pas SRP car  la classe Employe a 2 responsabilités différentes: 
+
 *Calcul du salaire : calculSalaire()
+
 *Affichage des coordonées : afficheCoordonee()
 
 
